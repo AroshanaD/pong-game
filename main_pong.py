@@ -140,7 +140,7 @@ def main():
     humanTextX = 25
     humanTextY = 25
 
-    font = pygame.font.Font('arial_narrow_7.ttf',25)
+    font = pygame.font.Font(25)
 
     def showAiScore(x,y):
         global aiPreScore
